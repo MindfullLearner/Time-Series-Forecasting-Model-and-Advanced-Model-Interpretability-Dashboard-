@@ -1,0 +1,7 @@
+SARIMA MODEL EVALUATION
+========================
+Order: (1,1,1), Seasonal Order: (1,1,1,12)
+Test MAE : 69.90
+Test RMSE: 75.63
+AIC: 707.72
+BIC: 720.38

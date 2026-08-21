@@ -1,0 +1,6 @@
+STATIONARITY TEST SUMMARY (ADF Test)
+=====================================
+Raw series p-value: 0.9919 -> Non-stationary
+After 1st-order differencing p-value: 0.0542 -> Non-stationary
+After seasonal differencing (lag=12) p-value: 0.0116 -> Stationary
+After both differencing steps p-value: 0.0000 -> Stationary
